@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_32dp">32dp</dimen>
+    <dimen name="title">64sp</dimen>
+    <dimen name="margin_48">48dp</dimen>
+</resources>
