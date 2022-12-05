@@ -28,7 +28,7 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
     }
 
     override fun onClick(v: View?) {
-        val jumpAnimation: Animation = AnimationUtils.loadAnimation(this, R.anim.jump)
+        val jumpAnimation: Animation = AnimationUtils.loadAnimation(this, R.anim.exit_down)
 
         imgvwAnimated.startAnimation(jumpAnimation)
     }
