@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Padding -->
     <dimen name="padding_32dp">32dp</dimen>
-    <dimen name="title">64sp</dimen>
+    <!-- Margin -->
+    <dimen name="margin_08">8dp</dimen>
+    <dimen name="margin_16">16dp</dimen>
+    <dimen name="margin_24">24dp</dimen>
+    <dimen name="margin_32">32dp</dimen>
+    <dimen name="margin_40">40dp</dimen>
     <dimen name="margin_48">48dp</dimen>
+
+    <!-- Text -->
+    <dimen name="title">64sp</dimen>
 </resources>

@@ -2,4 +2,15 @@
     <string name="app_name">Basic Animation</string>
     <string name="new_chest">New Chest</string>
     <string name="play">Play</string>
+    <string name="choose_animation">Choose animation</string>
+
+    <string-array name="animations">
+        <item name="jump_animation">Jump</item>
+        <item name="fade_in_animation">Fade In</item>
+        <item name="fade_out_animation">Fade Out</item>
+        <item name="zoom_in_animation">Zoom In</item>
+        <item name="zoom_out_animation">Zoom Out</item>
+        <item name="enter_up_animation">Enter Up</item>
+        <item name="exit_down_animation">Exist Down</item>
+    </string-array>
 </resources>
